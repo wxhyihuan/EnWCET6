@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  word_document: default
----
+
 # 📺中英文文献阅读翻译--工具篇
 <font color="white"><p>❤❤</p></font>
 
