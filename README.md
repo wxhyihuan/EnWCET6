@@ -1,4 +1,8 @@
-
+---
+output:
+  html_document: default
+  word_document: default
+---
 # 📺中英文文献阅读翻译--工具篇
 <font color="white"><p>❤❤</p></font>
 
@@ -7,8 +11,11 @@
 ### [SCI Translate][SCITranslate]: 
 
 SCI Translate是一款功能强大，操作方便的免费翻译中介工具，利用它提供的窗口结合百度翻译的API可以方便的实现全文，段落的翻译过程并保留较好的排版格式。另外，它们也提供一些其他收费润色，翻译和写作服务，最新版本是v17。我这里已经设置好百度翻译的API(百度翻译基础版API)，所以可以直接该软件了，具体方法是：
+
  1. 下载压缩包文件 <font color="red"><b>[SCITranslate17.rar]</b></font>，然后解压它；
+   
  2. 进入到解压后的文件目录(比如：SCITranslate17\SCITranslate)，如果是首次安装SCI Translate的话，先按照里面的文件说明先打开文件 <font color="red"><b>“新用户请双击此文件进行安装，老用户直接运行红色的SCITranslate.exe.msi”</b></font>，点击确认操作安装此文件;
+   
  3. 第2步安装好之后，就可以运行解压后的文件目录(比如：SCITranslate17\SCITranslate)下的<font color="red"><b>scitranslate.exe</b></font>文件了。
 
 
@@ -45,15 +52,15 @@ SCI Translate是一款功能强大，操作方便的免费翻译中介工具，�
 
 💪首先说翻译工具吧，主要就是前面内容的逆向操作，使用Google Translate的在线翻译或者整个文档翻译，比较快捷，但是比较粗糙。另外就是，结合词典(比如有道词典)工具进行逐句或逐段翻译。
 
-其次就是辅助写作的工具，我查的是有🥅[Netspeak]，🌱[Linggle]，👯[Grammarly]和🎉[SCI论文写作宝典]，但因为缺少实际写作经验和操作，所以也不熟悉，只能先罗列在此。
+其次就是辅助写作的工具，我查的是有[Netspeak]，[Linggle]，[Grammarly]和[SCI论文写作宝典]，但因为缺少实际写作经验和操作，所以也不熟悉，只能先罗列在此。
 
-[Netspeak]是单词、词组、语句翻译软件，比较特别的是可以在线搜索和比较各种英文词汇、短句、语法、单词解释等内容。
+- 🥅[Netspeak]是单词、词组、语句翻译软件，比较特别的是可以在线搜索和比较各种英文词汇、短句、语法、单词解释等内容。
 
-[Linggle] 可用来进行英语语法、句子写作，对需要英文写作的同学很友好。
+- 🌱[Linggle] 可用来进行英语语法、句子写作，对需要英文写作的同学很友好。
 
-[SCI论文写作宝典]：收录新词速度快，更新及时，能自动检查单词是否错误。
+- 👯[SCI论文写作宝典]：收录新词速度快，更新及时，能自动检查单词是否错误。
 
-[Grammarly] 是一款非常好用的英文文章校对软件，可以帮你找出文章中的标点、单词拼写,甚至是语法错误，使用网页版的就好，不用安装什么插件。
+- 🎉[Grammarly] 是一款非常好用的英文文章校对软件，可以帮你找出文章中的标点、单词拼写,甚至是语法错误，使用网页版的就好，不用安装什么插件。
 
 [SCITranslate]: http://www.scitranslate.com/
 [SCITranslate17.rar]: https://sciin.oss-cn-hangzhou.aliyuncs.com/scitranslate17/SCITranslate17.rar
